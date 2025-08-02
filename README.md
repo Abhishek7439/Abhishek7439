@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Hi 👋, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=300&lines=Abhishek+Kothe" alt="Abhishek Kothe" />
+ <img src="https://github.com/Meet6338-X/Meet6338-X/blob/main/Meetshahgithubreadmebox.svg" width="350" height="100" alt="Abhishek kothe" />  ×͜ × 😙🤞😏😏😏</h1>
   🚀
 </h1>
 
