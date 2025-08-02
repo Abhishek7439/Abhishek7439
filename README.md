@@ -19,9 +19,6 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=DevOps+Learner+%7C+Cloud+Explorer;Learning+Docker+Kubernetes+Terraform;Building+CI%2FCD+Pipelines+Step+by+Step)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishek7439&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek7439" />
 </p>
