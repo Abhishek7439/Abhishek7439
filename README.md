@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Hi 👋, I'm 
- <img src="https://github.com/Meet6338-X/Meet6338-X/blob/main/Meetshahgithubreadmebox.svg" width="350" height="100" alt="Abhishek kothe" />  ×͜ × 😙🤞😏😏😏</h1>
+ <img src="" width="350" height="100" alt="Abhishek kothe" />  ×͜ × 😙🤞😏😏😏</h1>
   🚀
 </h1>
 
