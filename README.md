@@ -36,19 +36,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-kothe&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kothe&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek7439&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek7439&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ### 📈 GitHub Activity
-![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-kothe&theme=tokyo-night&area=true)
+![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek7439&theme=tokyo-night&area=true)
 
----
-
-### 💻 Terminal Vibe
-```bash
 $ docker run -d --name future-devops abhishek-kothe:latest
 > Deploying skills...
 > Scaling DevOps knowledge...
