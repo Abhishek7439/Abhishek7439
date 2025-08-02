@@ -5,13 +5,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=550&lines=DevOps+Learner+%26+Cloud+Explorer;Passionate+about+Automation+%26+CI%2FCD;Building+Skills+Step+by+Step" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=550&lines=DevOps+Learner+%26+Cloud+Explorer;Learning+Automation+%26+CI%2FCD;Building+Skills+Step+by+Step" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">Learning DevOps, Cloud & Automation 🚀</h3>
+<h3 align="center">Focused on mastering Cloud, Automation & Infrastructure 🚀</h3>
 
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=DevOps+Learner+%7C+Cloud+Explorer;Learning+Docker+Kubernetes+Terraform;Building+CI%2FCD+Pipelines+Step+by+Step)](https://git.io/typing-svg)
 
