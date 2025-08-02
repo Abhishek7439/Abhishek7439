@@ -1,9 +1,17 @@
-<!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kothe;DevOps+Engineer+%7C+Cloud+Architect;Automate+Everything+%7C+Secure+Everything+%7C+Scale+Everything)](https://git.io/typing-svg)
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0FF7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kothe;DevOps+Engineer+%7C+Cloud+Architect;Automating+Infrastructure+%7C+CI%2FCD+Pipelines)](https://git.io/typing-svg)
 
 ---
 
-### 🛠 DevOps Toolkit
+## 👨‍💻 About Me
+- Passionate **DevOps Engineer** focused on **Automation, CI/CD, and Cloud Infrastructure**  
+- Skilled at building **scalable, reliable, and secure systems**  
+- Currently exploring **Kubernetes, Terraform, and AWS Cloud Security**  
+- Believer in **"Automate Everything, Secure Everything, Scale Everything"**
+
+---
+
+## 🛠 DevOps Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,aws,azure,gcp,linux,bash,git,github,githubactions,gitlab,nginx,prometheus,grafana,vscode" />
@@ -11,7 +19,7 @@
 
 ---
 
-### ⚡ DevOps Tools – Images & Roles
+## ⚙️ DevOps Tools & Their Roles
 
 | Tool | Logo | Purpose |
 |------|------|----------|
@@ -34,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek7439&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek7439&theme=tokyonight" width="48%"/>
@@ -42,10 +50,18 @@
 
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 ![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek7439&theme=tokyo-night&area=true)
 
-$ docker run -d --name future-devops abhishek-kothe:latest
-> Deploying skills...
-> Scaling DevOps knowledge...
-> CI/CD pipelines running successfully!
+---
+
+## 💻 Terminal Vibe
+```bash
+$ whoami
+> DevOps Engineer | Cloud Enthusiast
+
+$ kubectl get pods --all-namespaces
+> Scaling skills... 100%
+
+$ terraform apply
+> Infrastructure provisioned successfully!
